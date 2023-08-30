@@ -1,0 +1,22 @@
+h1{
+    text-indent: 20px;
+    background-color: purple;
+    color:white;
+}
+.circle-image{
+    width:100%;
+    max-width: 400px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border-radius: 50%;
+    border-color: purple;
+   
+}
+
+figure.foto-legenda img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border: 5px solid purple;
+}
